@@ -7,6 +7,10 @@ a python gui, which takes input of website and email and it automatically genera
 - [save_data](#save.json)
 - [python_code](#test.py)
 
+## Images
+![Screenshot 2024-11-17 132202](https://github.com/user-attachments/assets/816887b3-c8d4-4ffc-b38f-02497d460b10)
+![Screenshot 2024-11-17 132228](https://github.com/user-attachments/assets/22e857eb-8707-4cd7-a8d2-9e96b0e98d37)
+
 ## Installation
 
 ### Prerequisites
